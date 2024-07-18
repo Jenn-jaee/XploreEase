@@ -16,7 +16,7 @@ struct OnboardingView2: View {
                     .foregroundColor(.black)
                     .padding(.top, 20)
                 
-                Text("Create personalized itineraries and make the most out of your travels.")
+                Text("Create personalized itineraries and make the most of your travels.")
                     .font(.subheadline)
                     .bold() // Making the text bold
                     .foregroundColor(.black)
