@@ -1,5 +1,5 @@
-Introduction
-
+**Introduction
+**
 XploreEase is a transformative iOS app developed using SwiftUI, designed to facilitate affordable housing, dining, and activity discovery for students and new graduates near their workplaces. The app leverages features such as budget input, cuisine filters, activity discovery tools, map integration, and a chatbot to provide a comprehensive user experience. The initiative behind XploreEase was to offer a practical solution to the challenges faced by relocating individuals in accessing essential services efficiently.
 Features
 XploreEase includes several key features aimed at enhancing user experience:
